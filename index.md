@@ -1,0 +1,26 @@
+---
+layout: default
+title: Blog
+permalink: /blog/
+permalink: index.html
+---
+
+<div class="home">
+
+    <h1>Nekyia</h1>
+    {% for post in site.posts %}
+        {% capture post_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+        {% if post_year != current_year %}
+            {% unless forloop.first %}</ul>{% endunless %}
+            <p>{{ post_year }}</p>
+            <ul class="post-list">
+            {% capture current_year %}{{ post_year }}{% endcapture %}
+        {% endif %}
+
+            <li>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            </li>
+    {% endfor %}
+
+</div>
