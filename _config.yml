@@ -1,6 +1,3 @@
 # Site settings
 title: Nekyia
 url: "http://erikmusick.com"
-
-# Build settings
-markdown: redcarpet
