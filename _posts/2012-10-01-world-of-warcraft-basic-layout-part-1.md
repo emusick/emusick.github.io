@@ -19,13 +19,8 @@ Aside from addons, I learned quickly that point-and-click did not work in Player
 
 To facilitate PvP, macros, and consistent skill placement, I began using hotkeys. For my primary bar, I utilize 1-5, Q, E, R, T, F, and C. These keys surround the WADS movement keys. Each corresponds a skill type. For example (3 and 4 are inappropriate):
 
-<div id="attachment_222" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://erikmusick.com/wp-content/uploads/2012/10/actionBar.png"><img class="size-medium wp-image-222" title="actionBar" src="http://erikmusick.com/wp-content/uploads/2012/10/actionBar-300x24.png" alt="Action bar" width="300" height="24" srcset="http://erikmusick.com/wp-content/uploads/2012/10/actionBar-300x24.png 300w, http://erikmusick.com/wp-content/uploads/2012/10/actionBar.png 383w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p class="wp-caption-text">
-    Example action bar with hotkey text
-  </p>
-</div>
+<img title="wow_actionBar" src="/resources/wow_actionBar.png" alt="Action bar" />
+Example action bar with hotkey text
 
   * 1 basic attack (was ranged before MoP)
   * 2 basic attack
