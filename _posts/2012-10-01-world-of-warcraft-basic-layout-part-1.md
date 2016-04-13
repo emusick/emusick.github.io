@@ -51,13 +51,13 @@ A handful of function keys are used for mount and pet summons, hide UI, and scre
 
 I typically use two four-slot action bars for potions, food, bandages, buffs, aspects/stances, etc. Below is an example of my old layout:
 
-<img title="oldUI" src="/resources/wow_oldUI.jpg />
+<img title="oldUI" src="/resources/wow_oldUI.jpg" alt="Old UI" />
   
 Dual boxing with old UI
 
 Without any content, it would look like:
 
-<img title="oldUInoContent" src="/resources/wow_oldUInoContent.png />
+<img title="oldUInoContent" src="/resources/wow_oldUInoContent.png" alt="Old UI without content" />
   
 Old layout without game content
 
@@ -65,13 +65,13 @@ Everything is neatly centered and accessible. However, with every patch, it was 
 
 In looking to streamline both the dual-boxing experience and the user interface, I ran across the addon compilation pack [LUI](http://lui.maydia.org/ "LUI Homepage"). This included most everything I had before as a custom package; which meant fewer addon updates. After adding a few additional addons and some tweaking, my UI now looks like the following.
 
-<img title="newUI" src="/resources/wow_newUI.png />
+<img title="newUI" src="/resources/wow_newUI.png" alt="New UI" />
   
 New layout using LUI
 
 Without any content, it would look like:
 
-<img title="newUInoContent" src="/resources/wow_newUInoContent.png />
+<img title="newUInoContent" src="/resources/wow_newUInoContent.png" alt="New UI without content" />
   
 New UI without game content
 
