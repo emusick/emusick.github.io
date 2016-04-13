@@ -20,13 +20,9 @@ The below code uses CSS styling of HTML elements to achieve its appearance. The 
 
 Aside from changing the content, colors, and typeface, the below code should serve as template. Enjoy and modify to taste.
 
-<div id="attachment_212" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://erikmusick.com/wp-content/uploads/2012/07/EvernoteSectionHeaders.png"><img class="size-medium wp-image-212" title="EvernoteSectionHeaders" src="http://erikmusick.com/wp-content/uploads/2012/07/EvernoteSectionHeaders-300x73.png" alt="Section Header example" width="300" height="73" srcset="http://erikmusick.com/wp-content/uploads/2012/07/EvernoteSectionHeaders-300x73.png 300w, http://erikmusick.com/wp-content/uploads/2012/07/EvernoteSectionHeaders.png 907w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p class="wp-caption-text">
-    Section Header example
-  </p>
-</div>
+<img title="EvernoteSectionHeaders" src="/resources/EvernoteSectionHeaders.png" alt="Section header" /></a>
+
+Section Header example
 
 **Raw Code:**
 
