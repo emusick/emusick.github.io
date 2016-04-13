@@ -61,4 +61,4 @@ do stuff
 
 Hopefully this provides not only the foundation, but ideas for creating more complex logic within your favorite realm.
 
-**Previous:** [Part 3, More Aliases](http://erikmusick.com/www-part-3-more-aliases.html "WWW – Part 3, More Aliases")
+**Previous:** [Part 3, More Aliases](http://erikmusick.com/www-part-3-more-aliases/ "WWW – Part 3, More Aliases")
