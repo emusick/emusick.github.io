@@ -12,6 +12,9 @@ tags:
   - artifacts
   - cloud
 ---
+
+2016-04-12 Update: Link to artifacts_dropbox.7z removed.
+
 &#8220;Just the facts, ma&#8217;am.&#8221; In an effort to ascertain different artifacts for various cloud storage services, the following procedures were used. A clean, unpatched Windows 7 x64, install was used with [VMware Player](http://www.vmware.com/products/player/ "Homepage for VMware Player, a virtual machine platform") (version 3.1). An initial registry snapshot was taken with [RegShot](http://sourceforge.net/projects/regshot/ "Homepage for RegShot, a registry snapshot and comparison utility") (version 1.8.2) prior to installing the cloud storage application to provide a baseline. RegShot comparisons were performed after the application was installed, after it was initially run, and after an account was created. A file was then uploaded via the application and another regshot taken. Each recorded regshot was coupled with a list of files written to by utilizing [Process Monitor](http://technet.microsoft.com/en-us/sysinternals/bb896653 "Homepage for Process Explorer, a process and registry monitoring utility") (version 2.94). Below are the results.
 
 **Post Installation**
@@ -52,7 +55,7 @@ Unlink.db is a binary file and not a database.
 
 **References**
 
-All aforementioned log files are contained in a single 7zip archive: [artifacts_dropbox.7z](/content/docs/artifacts_dropbox.7z "7zip archive for raw capture logs regarding Dropbox artifacts"). Full captures are included in case there is something significant beyond what was mentioned above.
+All aforementioned log files are contained in a single 7zip archive: artifacts_dropbox.7z. Full captures are included in case there is something significant beyond what was mentioned above.
 
 [Dropbox Forensics Followup](http://forensicaliente.blogspot.com/2011/07/dropbox-forensics-follow-up.html "Forensicaliente's Dropbox Forensics Followup"), by Forensicaliente
 
