@@ -12,7 +12,8 @@ tags:
   - script
   - world of warcraft
 ---
-My [current UI](http://www.flickr.com/photos/emusick/5314445469/ "My current DPS interface for World of Warcraft") does not display XP which prevents the masochistic nature of checking XP til-next-level instead of actually leveling. So, a friend threw out the following macro.
+2016-04-12 Update: Removed link to UI
+My current UI does not display XP which prevents the masochistic nature of checking XP til-next-level instead of actually leveling. So, a friend threw out the following macro.
 
 <pre>/script ChatFrame1:AddMessage(string.format("XP to next level: %d",(UnitXPMax("Player")-UnitXP("Player"))))</pre>
 
