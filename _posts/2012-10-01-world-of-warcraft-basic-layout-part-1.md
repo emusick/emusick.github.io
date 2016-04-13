@@ -51,45 +51,29 @@ A handful of function keys are used for mount and pet summons, hide UI, and scre
 
 I typically use two four-slot action bars for potions, food, bandages, buffs, aspects/stances, etc. Below is an example of my old layout:
 
-<div id="attachment_223" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://erikmusick.com/wp-content/uploads/2012/10/oldUI.jpg"><img class="size-medium wp-image-223" title="oldUI" src="http://erikmusick.com/wp-content/uploads/2012/10/oldUI-300x168.jpg" alt="Old UI example" width="300" height="168" srcset="http://erikmusick.com/wp-content/uploads/2012/10/oldUI-300x168.jpg 300w, http://erikmusick.com/wp-content/uploads/2012/10/oldUI.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<img title="oldUI" src="/resources/wow_oldUI.jpg />
   
-  <p class="wp-caption-text">
-    Dual boxing with old UI
-  </p>
-</div>
+Dual boxing with old UI
 
 Without any content, it would look like:
 
-<div id="attachment_224" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://erikmusick.com/wp-content/uploads/2012/10/oldUInoContent.png"><img class="size-medium wp-image-224" title="oldUInoContent" src="http://erikmusick.com/wp-content/uploads/2012/10/oldUInoContent-300x168.png" alt="Skeletal old UI layout" width="300" height="168" srcset="http://erikmusick.com/wp-content/uploads/2012/10/oldUInoContent-300x168.png 300w, http://erikmusick.com/wp-content/uploads/2012/10/oldUInoContent.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<img title="oldUInoContent" src="/resources/wow_oldUInoContent.png />
   
-  <p class="wp-caption-text">
-    Old layout without game content
-  </p>
-</div>
+Old layout without game content
 
 Everything is neatly centered and accessible. However, with every patch, it was cumbersome to update addons. Even after all the patching, I still had some glitches that I would work around. As I entered into multi-boxing (the above screenshot is actually me dual-boxing), I did not want to fight updates and I needed consistency across everything. Reflux was handling single account settings well enough, but it was not working for the second account.
 
 In looking to streamline both the dual-boxing experience and the user interface, I ran across the addon compilation pack [LUI](http://lui.maydia.org/ "LUI Homepage"). This included most everything I had before as a custom package; which meant fewer addon updates. After adding a few additional addons and some tweaking, my UI now looks like the following.
 
-<div id="attachment_225" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://erikmusick.com/wp-content/uploads/2012/10/newUI.png"><img class="size-medium wp-image-225" title="newUI" src="http://erikmusick.com/wp-content/uploads/2012/10/newUI-300x168.png" alt="New LUI UI" width="300" height="168" srcset="http://erikmusick.com/wp-content/uploads/2012/10/newUI-300x168.png 300w, http://erikmusick.com/wp-content/uploads/2012/10/newUI.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<img title="newUI" src="/resources/wow_newUI.png />
   
-  <p class="wp-caption-text">
-    New layout using LUI
-  </p>
-</div>
+New layout using LUI
 
 Without any content, it would look like:
 
-<div id="attachment_226" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://erikmusick.com/wp-content/uploads/2012/10/newUInoContent.png"><img class="size-medium wp-image-226" title="newUInoContent" src="http://erikmusick.com/wp-content/uploads/2012/10/newUInoContent-300x168.png" alt="Skeletal new layout" width="300" height="168" srcset="http://erikmusick.com/wp-content/uploads/2012/10/newUInoContent-300x168.png 300w, http://erikmusick.com/wp-content/uploads/2012/10/newUInoContent.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<img title="newUInoContent" src="/resources/wow_newUInoContent.png />
   
-  <p class="wp-caption-text">
-    New UI without game content
-  </p>
-</div>
+New UI without game content
 
 Although LUI uses more artwork, it still maintains a clean look while providing a lot of information. Since both the Threat and DPS Meters can be toggled from the top, there is quite a bit of whitespace present. Slide scaling down (default scaling shown) on the player frames and it creates a fairly tight vertical focus.
 
