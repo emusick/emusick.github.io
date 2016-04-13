@@ -12,7 +12,7 @@ tags:
   - artifacts
   - cloud
 ---
-The [Cloud Storage &#8211; Dropbox](http://erikmusick.com/cloud-storage-dropbox.html "Cloud Storage – Dropbox") is the most popular page here. Since I posted it, I have gathered a few more links relevant to the topic. I have updated the original post to include them, but here is a quick post to highlight that change.
+The [Cloud Storage &#8211; Dropbox](http://erikmusick.com/cloud-storage-dropbox/ "Cloud Storage – Dropbox") is the most popular page here. Since I posted it, I have gathered a few more links relevant to the topic. I have updated the original post to include them, but here is a quick post to highlight that change.
 
 <div>
   <a href="http://dereknewton.com/2011/04/forensic-artifacts-dropbox/" shape="rect" target="_blank">http://dereknewton.com/2011/04/forensic-artifacts-dropbox/</a>
