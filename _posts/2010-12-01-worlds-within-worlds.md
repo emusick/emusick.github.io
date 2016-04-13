@@ -26,7 +26,7 @@ After installing *Tin++ and running it, you are left with a blank, black screen.
 #SESSION {UD} {66.93.4.184} {3000}
 
 #CONFIG log plain
-#FORMAT {time} {%T}
+#FORMAT {time} &#123;%T}
 #FORMAT {logfile} {logs/ud_%Y%M%D.txt} {$time $time $time};
 #LOG append $logfile;
 
