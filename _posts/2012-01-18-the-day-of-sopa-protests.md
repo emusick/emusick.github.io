@@ -13,4 +13,4 @@ tags:
 ---
 Hitler reacts to SOPA:
 
-<span class="embed-youtube" style="text-align:center; display: block;"></span>
+2016-04-12 Update: Youtube link no longer valid.
