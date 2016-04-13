@@ -11,7 +11,7 @@ categories:
 tags:
   - world of warcraft
 ---
-In the [previous post](http://erikmusick.com/world-of-warcraft-basic-layout-part-1.html "World of Warcraft – Basic Layout (Part 1)"), I discussed my transition from point-and-click to hotkeys and from creating my own layout to using a compilation pack. The compilation pack that I chose was [LUI](http://lui.maydia.org/ "LUI compilation pack homepage") after browsing through [Vranx](http://www.vranx.com/ "Vranx homepage"). Its sleek look and feature set was the main appeal. I was much more impressed after installing. The built-in configuration menu and custom code instead of simply unpacking other addons was a pleasant surprise.
+In the [previous post](http://erikmusick.com/world-of-warcraft-basic-layout-part-1/ "World of Warcraft – Basic Layout (Part 1)"), I discussed my transition from point-and-click to hotkeys and from creating my own layout to using a compilation pack. The compilation pack that I chose was [LUI](http://lui.maydia.org/ "LUI compilation pack homepage") after browsing through [Vranx](http://www.vranx.com/ "Vranx homepage"). Its sleek look and feature set was the main appeal. I was much more impressed after installing. The built-in configuration menu and custom code instead of simply unpacking other addons was a pleasant surprise.
 
 Before making any changes, I like to load all of my addons to make sure that at least work in a default state. Since LUI does a great job handling so many features, I have only added five addons: AuctionLite, Bagnon, BoP Remove, Postal, and Prat (all available on [Curse](http://www.curse.com/addons/wow "World of Warcraft addons on Curse.com")). AuctionLite and Postal are quality of life enhancements that make dealing with the auction house bearable and being able to bulk process the mail inbox. BoP Remove disables the &#8220;Are you sure you want to loot this BoP item&#8221; message that is quite irritating on a single account, much less on two or more. Bagnon is handy for the added tooltip informing players which characters have the selected item and how many. LUI handles gold accumulations which is part of Bagnon, but it does not yet handle caching character&#8217;s bags. Prat is straight forward and can be customized to taste.
 
@@ -103,4 +103,4 @@ After the initial installation of LUI, some of the frames will probably overlap.
 
 Experience to next level is available for mouse hovers just under the player resource bar. Clicking on the information will print it to the current chat channel or directly to the chat frame (essentially, a private message only visible to you).
 
-Follow on to [Part 3 &#8211; Multiboxing](http://erikmusick.com/world-of-warcraft-dual-boxing-part-3.html "World of Warcraft – Dual Boxing (Part 3)").
+Follow on to [Part 3 &#8211; Multiboxing](http://erikmusick.com/world-of-warcraft-dual-boxing-part-3/ "World of Warcraft – Dual Boxing (Part 3)").
