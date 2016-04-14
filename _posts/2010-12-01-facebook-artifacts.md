@@ -17,23 +17,15 @@ All internet browsing leaves remnants lying around the system simply waiting to 
 
 When attempting to determine whether a user was logged in, the title bar in the browser will be different for those logged in and those who are not. This does not tell you who was logged in, but merely that someone was. When a user is not logged in, the format is &#8220;**Username | Facebook**&#8220;. However, these two are swapped when a user logs in; thus becoming &#8220;**Facebook | Username**&#8220;. This can be identified in the HTML and in possible screenshots.
 
-<div style="width: 386px" class="wp-caption alignnone">
-  <img title="Anonymous login on Facebook" src="/content/img/Facebook_anonymous.png" alt="Anonymous login on Facebook" width="376" height="125" />
-  
-  <p class="wp-caption-text">
-    Anonymous login on Facebook
-  </p>
-</div>
+<img title="Anonymous login on Facebook" src="/resources/Facebook_anonymous.png" alt="Anonymous login on Facebook" />
+
+Anonymous login on Facebook
 
 &nbsp;
 
-<div style="width: 385px" class="wp-caption alignnone">
-  <img title="Facebook account logged into" src="/content/img/Facebook_logged_in.png" alt="Facebook account logged into" width="375" height="86" />
-  
-  <p class="wp-caption-text">
-    Facebook account logged into
-  </p>
-</div>
+<img title="Facebook account logged into" src="/resources/Facebook_logged_in.png" alt="Facebook account logged into" />
+
+Facebook account logged into
 
 **Current User**
 
