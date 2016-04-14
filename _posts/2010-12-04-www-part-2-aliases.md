@@ -12,7 +12,7 @@ tags:
   - muds
   - script
 ---
-Continuing from [Part 1](http://erikmusick.com/worlds-within-worlds.html "Worlds Within Worlds"), this section will discuss [Aliases](http://tintin.sourceforge.net/manual/alias.php "TinTin++ manual page for aliases"). Aliases are shortcuts to abbreviate commands. Below is an example of some default aliases, with headings for easier reading. Notice that the headings are set of with **nop** which is programming lingo for &#8220;No Operation&#8221; or, more simply, &#8220;do nothing.&#8221; It is based off the default script created in part where we set up a default class template.
+Continuing from [Part 1](http://erikmusick.com/worlds-within-worlds/), this section will discuss [Aliases](http://tintin.sourceforge.net/manual/alias.php "TinTin++ manual page for aliases"). Aliases are shortcuts to abbreviate commands. Below is an example of some default aliases, with headings for easier reading. Notice that the headings are set of with **nop** which is programming lingo for &#8220;No Operation&#8221; or, more simply, &#8220;do nothing.&#8221; It is based off the default script created in part where we set up a default class template.
 
 <pre>#class {cl_aliases} {kill}
 #class {cl_aliases} {open}
@@ -56,6 +56,6 @@ Let&#8217;s look at adding some logic to these basic aliases. Create a new secti
 
 This checks to see if your target is &#8220;AnnoyingPlayer.&#8221; If it is, you will attack them. Otherwise, you will give the player a hug. There are many, many different uses of aliases. TinTin++ has a great [manual](http://tintin.sourceforge.net/manual/ "TinTin++ manual") and a useful [forum](http://tintin.sourceforge.net/board/ "TinTin++ forums") as well.
 
-**Previous:** [Part 1, Introduction](http://erikmusick.com/worlds-within-worlds.html "Worlds Within Worlds")
+**Previous:** [Part 1, Introduction](http://erikmusick.com/worlds-within-worlds/)
 
-**Next:** [Part 3, More Aliases](http://erikmusick.com/www-part-3-more-aliases.html "WWW – Part 3, More Aliases")
+**Next:** [Part 3, More Aliases](http://erikmusick.com/www-part-3-more-aliases/)
