@@ -12,7 +12,7 @@ tags:
   - muds
   - script
 ---
-This is going to be a quick post following up [Part 2](http://erikmusick.com/www-part-2-aliases.html "WWW – Part 2, Aliases"), but it will demonstrate the usefulness of the **showme** command, how color works, and how to keep your enhancements straight. Let&#8217;s just jump right into the code and get to the explanations afterwards.
+This is going to be a quick post following up [Part 2](http://erikmusick.com/www-part-2-aliases/), but it will demonstrate the usefulness of the **showme** command, how color works, and how to keep your enhancements straight. Let&#8217;s just jump right into the code and get to the explanations afterwards.
 
 <pre>#class {cl_help} {kill}
 #class {cl_help} {open}
@@ -58,6 +58,6 @@ The next alias is a truncated help menu showing in-game potions that can be brew
 
 This is just another way that aliases can be used beyond being glorified shortcuts. They do not add any advantage to players, but are handy reference guides. Hopefully this will give players new to scripting some ideas on things that they may not have thought of before.
 
-**Previous:** [Part 2, Aliases](http://erikmusick.com/www-part-2-aliases.html "WWW – Part 2, Aliases")
+**Previous:** [Part 2, Aliases](http://erikmusick.com/www-part-2-aliases/)
 
-**Next:** [Part 4, Script Template](http://erikmusick.com/www-part-4-script-template.html "WWW – Part 4, Script Template")
+**Next:** [Part 4, Script Template](http://erikmusick.com/www-part-4-script-template/)
