@@ -15,7 +15,7 @@ All internet browsing leaves remnants lying around the system simply waiting to 
 
 **User Logged In**
 
-When attempting to determine whether a user was logged in, the title bar in the browser will be different for those logged in and those who are not. This does not tell you who was logged in, but merely that someone was. When a user is not logged in, the format is &#8220;**Username &#1234; Facebook**&#8220;. However, these two are swapped when a user logs in; thus becoming &#8220;**Facebook &#1234; Username**&#8220;. This can be identified in the HTML and in possible screenshots.
+When attempting to determine whether a user was logged in, the title bar in the browser will be different for those logged in and those who are not. This does not tell you who was logged in, but merely that someone was. When a user is not logged in, the format is &#8220;**Username &#124; Facebook**&#8220;. However, these two are swapped when a user logs in; thus becoming &#8220;**Facebook &#124; Username**&#8220;. This can be identified in the HTML and in possible screenshots.
 
 <img title="Anonymous login on Facebook" src="/resources/Facebook_anonymous.png" alt="Anonymous login on Facebook" />
 
