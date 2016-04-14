@@ -41,4 +41,4 @@ Before launching \*Tin++, create the &#8220;log&#8221; and &#8220;config&#8221; 
 
 For more MUD options, visit [The MUD Connector](http://www.mudconnect.com/ "Homepage for MUD Connector"). They have server listings, forums, links to clients, and more.
 
-**Next:** [Part 2, Aliases](http://erikmusick.com/www-part-2-aliases.html "Worlds Within Worlds - Part 2, Aliases")
+**Next:** [Part 2, Aliases](http://erikmusick.com/www-part-2-aliases/)
